@@ -1,0 +1,21 @@
+Cinsiyet-Erkek Kadın?
+
+Yaş-16-99?
+
+
+Ateşiniz var mı 38c üstü?(y-n)
+
+Öksürüğünüz var mı ?(y-n)
+
+Nefes darlığınız var mı?(y-n)
+
+son 14 gün içerisinde yurt dışına çıktı mı ?(y-n)
+
+Test ile doğrulanmış bir vaka ile temasınız oldu mu?(y-n)
+
+Aşağıdaki hastalık veya durumlardan herhangi birine sahip misiniz?(y-n)
+-Diyabet
+-Kardiyovasküler hastalık
+-Hipertansiyon
+-Astım
+-Kanser 
